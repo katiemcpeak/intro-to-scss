@@ -1,9 +1,14 @@
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Lato);
 html {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
+  text-align: center;
 }
 
 h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: "Lato", sans-serif;
   color: #5882FA;
+}
+
+.align {
+  font-size: 7em;
 }
